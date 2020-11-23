@@ -1,6 +1,7 @@
 # CFLMS-Oxales-CodeReview-01
 
-Very first website project at CodeFactory Vienna! 
+First Website Project
+# Blog Homepage
 
 Project description:
 
